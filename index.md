@@ -20,10 +20,10 @@ site wordpress
 **Aerospatial** / **spacex** / **Cosplay**
 
 ### Réseaux sociaux
-* **Portfolio :** https://tmasse.myportfolio.com
-* **Linkedin :** https://www.linkedin.com/in/thibault-masse-4b59a11b/
-* **Youtube :** https://urlz.fr/fvBU
-* **Instagram :** https://urlz.fr/fvBY
+* **Portfolio :** [Markdown Live Preview](https://tmasse.myportfolio.com)
+* **Linkedin :** [Markdown Live Preview](https://www.linkedin.com/in/thibault-masse-4b59a11b/)
+* **Youtube :** [Markdown Live Preview](https://urlz.fr/fvBU)
+* **Instagram :** [Markdown Live Preview](https://urlz.fr/fvBY)
 
 1. permis B avec voiture
 1. Permis bateau côtier
