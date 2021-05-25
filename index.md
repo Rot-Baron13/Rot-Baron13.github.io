@@ -53,10 +53,12 @@ Janvier 2014
 * Agencement d’intérieur
 
 ## Projets d’Études
-Création d’**infographies** sur l’accessibilité du web
+Création d’**infographies** sur l’accessibilité du web.
 
-Images de ma marque personnelle grâce à la suite adobe
+Images de ma marque personnelle grâce à la suite adobe.
+
 Mockup de boite de jeu sur photoshop
+
 Réalisation d’un projet d’agence de voyage :
 personae, storyboard, empathie map,
 journey map, wireframe, maquette.
