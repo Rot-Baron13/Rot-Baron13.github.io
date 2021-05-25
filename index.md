@@ -54,6 +54,7 @@ Janvier 2014
 
 ## Projets d’Études
 Création d’**infographies** sur l’accessibilité du web
+
 Images de ma marque personnelle grâce à la suite adobe
 Mockup de boite de jeu sur photoshop
 Réalisation d’un projet d’agence de voyage :
