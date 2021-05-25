@@ -1,9 +1,9 @@
-# Curriculum vitae
+# Curriculum Vitae
 ## Je recherche une alternance dès mai en communication et marketing digital
 
-Mon nom est **Thibault** J’ai 25 ans. 
-J’ai de l’expérience en 
-**communication** et je 
+Mon nom est **Thibault** J’ai 25 ans.
+J’ai de l’expérience en
+**communication** et je
 suis **autonome**
 
 ### Contacts
@@ -30,37 +30,37 @@ site wordpress
 1. Niveau d’anglais C1
 
 ## Formations
-• Normandie web school 
-</br>Chef de projet digital 
-</br>2022-2023
+• Normandie web school
+Chef de projet digital
+2022-2023
 
-• Normandie web school 
-</br>Alternance community management 
-</br>2020-2022
+• Normandie web school
+Alternance community management
+2020-2022
 
-• CNAM INTECHMER 
-</br>niveau bachelor
-</br>2016-2020
+• CNAM INTECHMER
+niveau bachelor
+2016-2020
 
-• BAc S 
-</br>Spécialité SVT
-</br>2011-2015
+• BAc S
+Spécialité SVT
+2011-2015
 
 Experiences professionelles
-</br>Cabinet d’architecture ASCA 
-</br>Janvier 2014
-* Cartographie 
+Cabinet d’architecture ASCA
+Janvier 2014
+* Cartographie
 * Agencement d’intérieur
 
 ## Projets d’Études
 Création d’**infographies** sur l’accessibilité du web
 Images de ma marque personnelle grâce à la suite adobe
 Mockup de boite de jeu sur photoshop
-Réalisation d’un projet d’agence de voyage : 
-personae, storyboard, empathie map, 
+Réalisation d’un projet d’agence de voyage :
+personae, storyboard, empathie map,
 journey map, wireframe, maquette.
 
-1. Illustrator
+1.Illustrator
 1.Indesign
 1.Photoshop
 1.Lightroom
@@ -72,4 +72,3 @@ journey map, wireframe, maquette.
 1.Google sketchUp
 1.Html
 1.Css
-
