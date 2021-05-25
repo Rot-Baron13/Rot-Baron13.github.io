@@ -30,19 +30,19 @@ site wordpress
 1.Niveau d’anglais C1
 
  ## Formations
-• Normandie web school
+* Normandie web school
 Chef de projet digital
 2022-2023
 
-• Normandie web school
+* Normandie web school
 Alternance community management
 2020-2022
 
-• CNAM INTECHMER
+* CNAM INTECHMER
 niveau bachelor
 2016-2020
 
-• BAc S
+* BAc S
 Spécialité SVT
 2011-2015
 
