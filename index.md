@@ -1,35 +1,35 @@
-# Curriculum Vitae
-## Je recherche une alternance dès mai en communication et marketing digital
+ # Curriculum Vitae
+ ## Je recherche une alternance dès mai en communication et marketing digital
 
 Mon nom est **Thibault** J’ai 25 ans.
 J’ai de l’expérience en
 **communication** et je
 suis **autonome**
 
-### Contacts
+ ### Contacts
 28 rue des Hallettes 76000 Rouen
 06 32 21 24 45
 tmasse@normandiewebschool.fr
 
-### projets Personnels
+ ### projets Personnels
 Création d’un jeu de plateau
 Création de cosplay
 site wordpress
 
-### INTÉRETS
+ ### INTÉRETS
 **Aerospatial** / **spacex** / **Cosplay**
 
-### Réseaux sociaux
+ ### Réseaux sociaux
 * **Portfolio :** [Markdown Live Preview](https://tmasse.myportfolio.com)
 * **Linkedin :** [Markdown Live Preview](https://www.linkedin.com/in/thibault-masse-4b59a11b/)
 * **Youtube :** [Markdown Live Preview](https://urlz.fr/fvBU)
 * **Instagram :** [Markdown Live Preview](https://urlz.fr/fvBY)
 
-1. permis B avec voiture
-1. Permis bateau côtier
-1. Niveau d’anglais C1
+1.permis B avec voiture
+1.Permis bateau côtier
+1.Niveau d’anglais C1
 
-## Formations
+ ## Formations
 • Normandie web school
 Chef de projet digital
 2022-2023
@@ -49,10 +49,10 @@ Spécialité SVT
 Experiences professionelles
 Cabinet d’architecture ASCA
 Janvier 2014
-* Cartographie
-* Agencement d’intérieur
+*Cartographie
+*Agencement d’intérieur
 
-## Projets d’Études
+ ## Projets d’Études
 Création d’**infographies** sur l’accessibilité du web
 Images de ma marque personnelle grâce à la suite adobe
 Mockup de boite de jeu sur photoshop
