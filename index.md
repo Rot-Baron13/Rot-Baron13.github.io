@@ -25,9 +25,9 @@ site wordpress
 * **Youtube :** [Markdown Live Preview](https://urlz.fr/fvBU)
 * **Instagram :** [Markdown Live Preview](https://urlz.fr/fvBY)
 
-1.permis B avec voiture
-1.Permis bateau côtier
-1.Niveau d’anglais C1
+1. permis B avec voiture
+1. Permis bateau côtier
+1. Niveau d’anglais C1
 
  ## Formations
 * Normandie web school
@@ -60,15 +60,15 @@ Réalisation d’un projet d’agence de voyage :
 personae, storyboard, empathie map,
 journey map, wireframe, maquette.
 
-1.Illustrator
-1.Indesign
-1.Photoshop
-1.Lightroom
-1.After Effect
-1.Xd
-1.Miro
-1.Whimsical
-1.Excel
-1.Google sketchUp
-1.Html
-1.Css
+1. Illustrator
+1. Indesign
+1. Photoshop
+1. Lightroom
+1. After Effect
+1. Xd
+1. Miro
+1. Whimsical
+1. Excel
+1. Google sketchUp
+1. Html
+1. Css
